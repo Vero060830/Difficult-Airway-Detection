@@ -15,7 +15,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <RouterLink to="/statistics_charts">图表</RouterLink></van-tabbar-item
     >
     <van-tabbar-item icon="setting-o">
-      <RouterLink to="/">我的</RouterLink></van-tabbar-item
+      <RouterLink to="/patient_detail">我的</RouterLink></van-tabbar-item
     >
   </van-tabbar>
 
