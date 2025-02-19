@@ -12,7 +12,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <RouterLink to="/patients_list">患者</RouterLink></van-tabbar-item
     >
     <van-tabbar-item icon="chart-trending-o">
-      <RouterLink to="/">图表</RouterLink></van-tabbar-item
+      <RouterLink to="/statistics_charts">图表</RouterLink></van-tabbar-item
     >
     <van-tabbar-item icon="setting-o">
       <RouterLink to="/">我的</RouterLink></van-tabbar-item
