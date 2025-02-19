@@ -6,7 +6,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 <template>
   <van-tabbar v-model="active">
     <van-tabbar-item icon="filter-o">
-      <RouterLink to="/">采集</RouterLink></van-tabbar-item
+      <RouterLink to="/collect_list">采集</RouterLink></van-tabbar-item
     >
     <van-tabbar-item icon="friends-o">
       <RouterLink to="/patients_list">患者</RouterLink></van-tabbar-item
